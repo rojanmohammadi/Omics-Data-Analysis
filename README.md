@@ -15,19 +15,20 @@ This repository contains a comprehensive suite of bioinformatics analyses, demon
 
 ### 📂 [Genomics & Variant Calling](./Genomics_and_Variant_Calling)
 *Focus: DNA-Seq processing and somatic mutation discovery.*
-- **[DNA-Seq Analysis Report](./Genomics_and_Variant_Calling/DNA-Seq-Variant-Analysis.html)**: Interactive report on variant allele frequencies (VAF).
+- **[DNA-Seq Analysis Report](https://htmlpreview.github.io/?https://github.com/rojanmohammadi/Omics-Data-Analysis/blob/main/Genomics_and_Variant_Calling/DNA-Seq-Variant-Analysis.html)**: Interactive report on variant allele frequencies (VAF).
 - **[Filtered Variants](./Genomics_and_Variant_Calling/final_variants_FREQ10.txt)**: Curated list of high-confidence mutations (FREQ > 10%).
 - **[Alignment QC](./Genomics_and_Variant_Calling/Samtools.pdf)**: Flagstat reports generated via HPC Samtools.
 
 ### 📂 [Transcriptomics & Epigenomics](./Transcriptomics_and_Epigenomics)
 *Focus: Gene expression and Chromatin Immunoprecipitation (ChIP) analysis.*
-- **[RNA-Seq Analysis](./Transcriptomics_and_Epigenomics/RNA-Seq-Differential-Expression.html)**: Differential expression and pathway analysis.
-- **[ChIP-Seq Peak Annotation](./Transcriptomics_and_Epigenomics/ChIP-Seq-Peak-Annotation.html)**: Peak calling and genomic feature distribution.
+- **[RNA-Seq Analysis Report](https://htmlpreview.github.io/?https://github.com/rojanmohammadi/Omics-Data-Analysis/blob/main/Transcriptomics_and_Epigenomics/RNA-Seq-Differential-Expression.html)**: Differential expression and pathway analysis.
+- **[ChIP-Seq Analysis Part 1](https://htmlpreview.github.io/?https://github.com/rojanmohammadi/Omics-Data-Analysis/blob/main/Transcriptomics_and_Epigenomics/ChIP-Seq-Analysis-Part1.html)**: Initial filtering and data preparation for ChIP-Seq.
+- **[ChIP-Seq Peak Annotation](https://htmlpreview.github.io/?https://github.com/rojanmohammadi/Omics-Data-Analysis/blob/main/Transcriptomics_and_Epigenomics/ChIP-Seq-Peak-Annotation.html)**: Peak calling and genomic feature distribution.
 - **[Visualisation Report](./Transcriptomics_and_Epigenomics/ChIP-Seq-Visualisation-Report.pdf)**: Distance to TSS distribution and peak count frequency plots.
 
 ### 📂 [Proteomics & Theoretical Foundations](./Proteomics_and_Theory)
 *Focus: Signal transduction and bioinformatic strategies.*
-- **[Proteomics Report](./Proteomics_and_Theory/Proteomics.html)**: MAPK pathway inhibition and kinase activity under drug treatment.
+- **[Proteomics Report](https://htmlpreview.github.io/?https://github.com/rojanmohammadi/Omics-Data-Analysis/blob/main/Proteomics_and_Theory/Proteomics.html)**: MAPK pathway inhibition and kinase activity under drug treatment.
 - **[Theoretical Analysis](./Proteomics_and_Theory/Omics-Theoretical-Analysis.pdf)**: Expert discussion on single-cell vs. bulk RNA-seq and epigenetic mechanisms.
 
 ---
@@ -35,7 +36,7 @@ This repository contains a comprehensive suite of bioinformatics analyses, demon
 ## 🛠 Bioinformatic Toolset
 - **Core Tools:** Samtools, MACS2, VarScan2, ANNOVAR, ChIPseeker.
 - **Statistical Frameworks:** R (Bioconductor), Limma, KSEAapp.
-- **Infrastructure:** Linux/Bash, HPC Cluster (SLURM/SGE).
+- **Environment:** High-Performance Computing (HPC) Clusters (Linux/Bash).
 
 ---
-*Note: To view interactive HTML reports, please use [GitHub HTML Preview](https://htmlpreview.github.io/).*
+*Note: HTML reports are rendered using GitHub HTML Preview for interactive viewing.*
