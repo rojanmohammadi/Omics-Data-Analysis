@@ -23,7 +23,7 @@ This repository contains a comprehensive suite of bioinformatics analyses, demon
 *Focus: Gene expression and Chromatin Immunoprecipitation (ChIP) analysis.*
 - **[RNA-Seq Analysis Report](https://htmlpreview.github.io/?https://github.com/rojanmohammadi/Omics-Data-Analysis/blob/main/Transcriptomics_and_Epigenomics/RNA-Seq-Differential-Expression.html)**: Differential expression and pathway analysis.
 - **[ChIP-Seq Analysis Part 1](https://htmlpreview.github.io/?https://github.com/rojanmohammadi/Omics-Data-Analysis/blob/main/Transcriptomics_and_Epigenomics/ChIP-Seq-Analysis-Part1.html)**: Initial filtering and data preparation for ChIP-Seq.
-- **[ChIP-Seq Peak Annotation](https://htmlpreview.github.io/?https://github.com/rojanmohammadi/Omics-Data-Analysis/blob/main/Transcriptomics_and_Epigenomics/ChIP-Seq-Peak-Annotation.html)**: Peak calling and genomic feature distribution.
+- **[ChIP-Seq Peak Annotation (Part 2)](https://htmlpreview.github.io/?https://github.com/rojanmohammadi/Omics-Data-Analysis/blob/main/Transcriptomics_and_Epigenomics/ChIP-Seq-Peak-Annotation-Part2.html)**: Peak calling and genomic feature distribution.
 - **[Visualisation Report](./Transcriptomics_and_Epigenomics/ChIP-Seq-Visualisation-Report.pdf)**: Distance to TSS distribution and peak count frequency plots.
 
 ### 📂 [Proteomics & Theoretical Foundations](./Proteomics_and_Theory)
